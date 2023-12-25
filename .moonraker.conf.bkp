@@ -73,6 +73,6 @@ type = gpio
 pin = gpiochip0/gpio22
 off_when_shutdown = True
 restart_klipper_when_powered = true
-initial_state = on
+initial_state = off
 bound_services = klipper
 
