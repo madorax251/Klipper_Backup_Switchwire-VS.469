@@ -75,5 +75,5 @@ pin = gpio22
 off_when_shutdown = True
 restart_klipper_when_powered = true
 initial_state = on
-#bound_services = klipper
+bound_services = klipper
 
